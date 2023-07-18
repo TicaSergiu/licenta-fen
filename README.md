@@ -20,4 +20,3 @@ python src/main.py path_to_img
 
 ```
 python src/main.py path_to_directory
-'''
