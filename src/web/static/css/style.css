@@ -1,0 +1,22 @@
+#canvas {
+  /* position: absolute; */
+  /* width: 400px; */
+  /* height: 400px; */
+  /* display: block; */
+  border: 1px solid white;
+}
+
+#butoane{
+  max-height: 15px;
+  max-width: 20px;
+}
+
+.app{
+  background-color:rgba(30,30,30,0.4);
+  color:white;
+}
+
+body{
+  background: url('../background.jpg');
+  background-size: 100vw 100vh;
+}
